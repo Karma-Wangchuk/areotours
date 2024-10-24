@@ -318,6 +318,7 @@ input {
 }
 
 .home__data-subtitle {
+  color: var(--black-color);
   display: block;
   font-weight: var(--font-semi-bold);
   margin-bottom: var(--mb-0-75);
